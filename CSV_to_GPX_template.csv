@@ -1,0 +1,6 @@
+X,Y,ele,time,magvar,geoidheight,name,cmt,desc,src,link1_href,link1_text,link1_type,link2_href,link2_text,link2_type,sym,type,fix,sat,hdop,vdop,pdop,ageofdgpsdata,dgpsid
+-81.56896,33.28282,,,,,A-1,hotspot,near this point,,,,,,,,,,,,,,,,
+-81.56808,33.28209,,,,,A-2,within 100m of A-1,,,,,,,,,,,,,,,,,
+-81.56505,33.28044,,,,,B-1,hotspot,near this point,,,,,,,,,,,,,,,,
+-81.5659,33.28042,,,,,B-2,within 100m of B-1,this was about 100+m of collections,,,,,,,,,,,,,,,,
+-81.56652,33.28455,,,,,C,within 400-500m of hotspots,,,,,,,,,,,,,,,,,
